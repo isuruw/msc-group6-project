@@ -1,0 +1,24 @@
+@CHARSET "ISO-8859-1";
+
+.comments-row{
+	margin-bottom: 30px;	
+}
+
+.comment-age{
+	font-size: 12px;
+}
+
+.comments-well{
+	margin-top: 10px;
+}
+
+.btn-default, .btn-default:focus{
+	color: rgba(103, 106, 108, 1);
+	border: 1px solid rgba(238, 238, 238, 1);
+}
+
+.btn-default:hover{
+	color: rgba(103, 106, 108, 1);
+	border: 1px solid rgba(238, 238, 238, 1);
+	background-color: rgba(243, 243, 244, 1); 
+}

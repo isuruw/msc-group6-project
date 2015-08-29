@@ -1,0 +1,67 @@
+@CHARSET "ISO-8859-1";
+
+/*
+ * Author: Sasanka Amarasiri
+ * Since: 21st July 2015
+ * Version: 1.0
+ */
+ 
+/* First Run Section1 - START */
+
+.first_run_section1 img {
+	text-align: center;
+}
+
+.first_run_section1 .input-large {
+	color: rgba(255, 255, 255, 1);
+	background-color: rgba(0, 0, 0, 1);
+}
+
+/* First Run Section1 - END */
+
+/* First Run Section2 - START */
+.first_run_section2 .blank-area {
+	height: 0;
+	background-color: rgba(0, 0, 0, 1);
+}
+
+.first_run_section2 .content-area {
+	background-color: rgba(0, 0, 0, 1);
+	text-align: center;
+}
+
+.first_run_section2 .content-area h1 {
+	margin-top: 140px;
+	line-height: 0;
+}
+
+.first_run_section2 .content-area h3 {
+	margin-top: 30px;
+	margin-bottom: 150px;;
+	line-height: 0;
+}
+
+.first_run_btn{
+	margin-top: 0;
+}
+
+/* First Run Section2 - END */
+
+/* First Run Section3 - START */
+.first_run_section3{
+	height: 100px;
+	background-color: rgba(0, 0, 0, 1);
+}
+
+.first_run_section3 hr{
+	border-top: 10px solid rgba(34, 34, 34, 1);
+    margin-bottom: 10px;
+    width: 100%;	
+}
+
+.first_run_section3 p{
+	font-size: 10pt;
+	color: rgba(210, 215, 211, .6);
+	margin-left: 0%;
+}
+/* First Run Section3 - END */
